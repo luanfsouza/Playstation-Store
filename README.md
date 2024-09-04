@@ -10,6 +10,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 **O que é?**
 
 ==> Projeto gerado com [Angular CLI](https://github.com/angular/angular-cli) version 18.2.1. <==
+
 Uma implementação da PlayStation Store utilizando Angular, com foco em componentes reutilizáveis e data binding.
 
 **Por que este projeto?**
