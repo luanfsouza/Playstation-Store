@@ -1,27 +1,32 @@
-# Store
+#  PlayStation Store (Angular) - Um projeto Angular repleto de features! 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.1.
+**Demonstração:**
+![Playstation Store banner](/public/assets/mockup/ps-store-mockup.png)
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+**O que é?**
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+==> Projeto gerado com [Angular CLI](https://github.com/angular/angular-cli) version 18.2.1. <==
+Uma implementação da PlayStation Store utilizando Angular, com foco em componentes reutilizáveis e data binding.
 
-## Build
+**Por que este projeto?**
+* **Aprendizado:** Uma ótima oportunidade para aprender sobre Angular, componentes, e data binding.
+* **Portfólio:** Demonstre suas habilidades com um projeto prático e divertido.
+* **Inspiração:** Crie sua própria loja online personalizada.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+**Tecnologias:**
 
-## Running unit tests
+* **Angular:** Framework front-end poderoso e versátil. 
+* **TypeScript:** Tipagem estática para um código mais seguro e escalável. ️
+* **HTML e CSS:** Para construir a interface do usuário. 
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+**Como usar:**
+1. Clone este repositório.
+2. Instale as dependências: `npm install`.
+3. Execute o projeto: `ng serve`.
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+**Contribuições:**
+Seja bem-vindo a contribuir! Abra um pull request e vamos juntos melhorar este projeto.
